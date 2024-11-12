@@ -56,13 +56,15 @@ Access visualizations of spending behavior for each segment.
 Use the interface to make predictions on new data, categorizing customers as low, medium, or high budget.
 To run this project locally, ensure that you have Python installed along with the following libraries:
 
-bash
-Copy code
+To run this project locally, ensure that you have Python installed along with the following libraries:
+
+```bash
 pip install pandas numpy scikit-learn gradio
-Conclusion & Next Steps
+
+**Conclusion & Next Steps**
 The Bank Customer Segmentation project highlights the value of machine learning in understanding customer behavior. Future improvements could include refining the segmentation model with more data and exploring deeper insights through advanced algorithms.
 
-Contact
+**Contact**
 For any questions or collaboration opportunities, please reach out to me on [LinkedIn](https://linkedin.com/in/menna-ahmad-83767b227)
  or visit my [GitHub](https://github.com/MennaAhmad)
  profile.
