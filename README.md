@@ -59,7 +59,7 @@ To run this project locally, ensure that you have Python installed along with th
 To run this project locally, ensure that you have Python installed along with the following libraries:
 
 ```bash
-pip install pandas numpy scikit-learn gradio
+'pip install pandas numpy scikit-learn gradio'
 
 **Conclusion & Next Steps**
 The Bank Customer Segmentation project highlights the value of machine learning in understanding customer behavior. Future improvements could include refining the segmentation model with more data and exploring deeper insights through advanced algorithms.
