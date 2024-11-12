@@ -2,7 +2,7 @@
 Project Overview
 This project applies machine learning techniques to segment bank customers into distinct groups based on their financial behaviors. By analyzing transaction amounts, account balances, and demographic data, the model provides insights into customer spending patterns, enabling the bank to tailor its marketing efforts, enhance customer satisfaction, and improve retention.
 
-Objectives
+**Objectives**
 The main objectives of this project are:
 
 To categorize customers into budget-based segments (low, medium, high) for targeted marketing and personalized services.
@@ -16,7 +16,7 @@ Behavioral Data: Frequency and timing of transactions.
 Preprocessing Steps
 Data preprocessing included handling missing values, normalizing features, and preparing the data for clustering and classification.
 
-Technologies and Tools
+**Technologies and Tools**
 The following tools and libraries were used:
 
 Python: For data analysis, modeling, and evaluation.
@@ -28,23 +28,23 @@ Project Workflow
 Data Collection and Preprocessing
 Collected and cleaned data, handled missing values, and normalized features.
 
-Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)**
 Conducted EDA to examine customer behaviors, transaction patterns, and demographic distributions.
 
-Feature Engineering
+**Feature Engineering**
 Created features to represent customer spending habits and demographic attributes.
 
-Modeling
+**Modeling**
 
 K-Means Clustering: Applied to segment customers into three budget-based groups (low, medium, high).
 Random Forest Classifier: Used to predict customer categories based on behavioral and demographic data.
 Results & Evaluation
 Evaluated the segmentation model’s performance, achieving meaningful clusters that revealed distinct customer profiles. Used silhouette scores to measure clustering quality.
 
-Dashboard & Deployment
+**Dashboard & Deployment**
 Developed an interactive Power BI dashboard to visualize customer segments, and deployed the model using Gradio for easy interaction and interpretation of results.
 
-Results & Insights
+**Results & Insights**
 Successfully identified three customer segments with distinct spending patterns, which provide actionable insights for targeted marketing.
 High-budget customers showed a preference for larger transactions, while low-budget customers had higher transaction frequencies.
 These insights enable the bank to design personalized services and improve customer satisfaction across segments.
@@ -63,4 +63,6 @@ Conclusion & Next Steps
 The Bank Customer Segmentation project highlights the value of machine learning in understanding customer behavior. Future improvements could include refining the segmentation model with more data and exploring deeper insights through advanced algorithms.
 
 Contact
-For any questions or collaboration opportunities, please reach out to me on LinkedIn or visit my GitHub profile.
+For any questions or collaboration opportunities, please reach out to me on [LinkedIn](https://linkedin.com/in/menna-ahmad-83767b227)
+ or visit my [GitHub](https://github.com/MennaAhmad)
+ profile.
